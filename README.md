@@ -29,6 +29,6 @@ function activateScript() {
 // Runs the function every 05 minutes
 setInterval(activateScript, 5 * 60 * 1000); 
 ```
-## Image
+## Picture
 ![Description de l'image](Xeggex.jpg)
 
