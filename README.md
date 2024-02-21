@@ -5,8 +5,7 @@ We use the developer mode of the Firefox browser
 
 Open the XeggeX Faucet page : https://xeggex.com/faucet
 
-To use developer mode : 
-Firefox: Menu ➤ Additional tools ➤ Web development tools
+To use developer mode in Firefox: Menu ➤ Additional tools ➤ Web development tools
 or "CTRL"+"SHIFT"+"I"
 
 Console tab
