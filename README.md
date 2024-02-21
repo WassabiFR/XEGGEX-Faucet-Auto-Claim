@@ -3,7 +3,7 @@ It automatically executes the function every 05 minutes.
 
 We use the developer mode of the Firefox browser
 
-Open the XeggeX Faucet page
+Open the XeggeX Faucet page : https://xeggex.com/faucet
 
 To use developer mode : 
 Firefox: Menu ➤ Additional tools ➤ Web development tools
