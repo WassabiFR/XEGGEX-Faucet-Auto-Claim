@@ -11,4 +11,4 @@ or "CTRL"+"SHIFT"+"I"
 Console tab
 
 Paste the script
-Click on run
+Click and run
