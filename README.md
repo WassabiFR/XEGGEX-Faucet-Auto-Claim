@@ -12,27 +12,6 @@ Console tab
 
 Paste the script
 
-
-### Pour spécifier le langage :
-Vous pouvez spécifier le langage après le premier triple backtick pour obtenir une coloration syntaxique appropriée. Par exemple :
-```markdown
-```javascript
-function activateButtons() {
-  var buttons = document.querySelectorAll(".btn.btn-sm.btn-success.makeclaim");
-  buttons.forEach(function(button) {
-    button.click();
-  });
-}
-
-function activateScript() {
-  activateButtons();
-}
-
-// Runs the function every 05 minutes
-setInterval(activateScript, 5 * 60 * 1000);
-greet();
-
-
 Click and run
 
 ![Description de l'image](https://github.com/WassabiFR/XEGGEX-Faucet-Auto-Claim-/blob/main/Xeggex-Claim.jpg)
