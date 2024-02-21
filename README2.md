@@ -1,7 +1,3 @@
-# Auto Claim on Faucet exchange Xeggex
-
-The script allows you to claim Faucet from the XeggeX exchange It automatically executes the function every 05 minutes.
-
 ## Description
 
 The script allows you to claim Faucet from the XeggeX exchange It automatically executes the function every 05 minutes.
@@ -15,7 +11,7 @@ The script allows you to claim Faucet from the XeggeX exchange It automatically 
 5. Click and run
 
 
-## Code JavaScript
+## JavaScript Code
 
 Voici le code JavaScript utilisé dans ce projet :
 
