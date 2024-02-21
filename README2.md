@@ -29,3 +29,5 @@ function activateScript() {
 
 // Runs the function every 05 minutes
 setInterval(activateScript, 5 * 60 * 1000);
+
+![Description de l'image](https://github.com/WassabiFR/XEGGEX-Faucet-Auto-Claim-/blob/main/Xeggex-Claim.jpg)
