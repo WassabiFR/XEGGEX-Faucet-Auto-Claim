@@ -5,10 +5,11 @@ The script allows you to claim Faucet from the XeggeX exchange It automatically 
 ## Installation
 
 1. Open the XeggeX Faucet page : https://xeggex.com/faucet
-2. To use developer mode in Firefox: Menu ➤ Additional tools ➤ Web development tools or "CTRL"+"SHIFT"+"I"
-3. Open Console tab
-4. Paste the script
-5. Click and run
+2. Click on Faucet
+3. To use developer mode in Firefox: Menu ➤ Additional tools ➤ Web development tools or "CTRL"+"SHIFT"+"I"
+4. Open Console tab
+5. Paste the script
+6. Click and run
 
 ## JavaScript Code
 
