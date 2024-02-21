@@ -10,9 +10,6 @@ The script allows you to claim Faucet from the XeggeX exchange It automatically 
 4. Paste the script
 5. Click and run
 
-## Image
-![Description de l'image](https://github.com/WassabiFR/XEGGEX-Faucet-Auto-Claim-/blob/main/Xeggex-Claim.jpg)
-
 ## JavaScript Code
 
 Voici le code JavaScript utilisé dans ce projet :
