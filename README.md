@@ -13,7 +13,7 @@ The script allows you to claim Faucet from the XeggeX exchange It automatically 
 
 ## JavaScript Code
 
-Voici le code JavaScript utilisé dans ce projet :
+Paste the script on Console tab :
 
 ```javascript
 function activateButtons() {
