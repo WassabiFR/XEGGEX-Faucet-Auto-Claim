@@ -11,6 +11,18 @@ or "CTRL"+"SHIFT"+"I"
 Console tab
 
 Paste the script
+
+
+### Pour spécifier le langage :
+Vous pouvez spécifier le langage après le premier triple backtick pour obtenir une coloration syntaxique appropriée. Par exemple :
+```markdown
+```javascript
+function greet() {
+    console.log("Hello, World!");
+}
+greet();
+
+
 Click and run
 
 ![Description de l'image](https://github.com/WassabiFR/XEGGEX-Faucet-Auto-Claim-/blob/main/Xeggex-Claim.jpg)
