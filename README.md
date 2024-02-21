@@ -17,9 +17,19 @@ Paste the script
 Vous pouvez spécifier le langage après le premier triple backtick pour obtenir une coloration syntaxique appropriée. Par exemple :
 ```markdown
 ```javascript
-function greet() {
-    console.log("Hello, World!");
+function activateButtons() {
+  var buttons = document.querySelectorAll(".btn.btn-sm.btn-success.makeclaim");
+  buttons.forEach(function(button) {
+    button.click();
+  });
 }
+
+function activateScript() {
+  activateButtons();
+}
+
+// Runs the function every 05 minutes
+setInterval(activateScript, 5 * 60 * 1000);
 greet();
 
 
