@@ -12,3 +12,5 @@ Console tab
 
 Paste the script
 Click and run
+
+https://github.com/WassabiFR/XEGGEX-Faucet-Auto-Claim-/blob/main/Xeggex-Claim.jpg
